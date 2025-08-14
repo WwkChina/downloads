@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
       "domain_suffix": [
@@ -364,6 +364,12 @@
           "aliyuncs.com",
           "beacon-api.aliyuncs.com"
         ]
-    }  
+    },
+    {
+      "type": "logical",
+      "mode": "or",
+      "rules": [],
+      "invert": false
+    }
   ]
 }
