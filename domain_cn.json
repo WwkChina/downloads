@@ -362,6 +362,10 @@
         "zmzapi.com",
         "zmzapi.net",
         "zmzfile.com"
+      ],
+      "domain_suffix": [
+        "w.alikunlun.com",
+        "tanx.com"
       ]
     }
   ]
