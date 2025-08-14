@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
           "cstnet.cn",
           "edu.cn",
           "sicarrier.com",
@@ -358,9 +358,11 @@
           "ykimg.com",
           "yfeil.com",
           "hpccube.com",
-          "ejoy.com",
+          "ali-lxqw-hotfix.ejoy.com",
+          "gsg.lingxigames.com",
           "lingxigames.com",
-          "aliyuncs.com"
+          "aliyuncs.com",
+          "beacon-api.aliyuncs.com"
         ]
     }  
   ]
