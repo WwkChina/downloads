@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
           "cstnet.cn",
           "edu.cn",
           "sicarrier.com",
@@ -364,12 +364,6 @@
           "aliyuncs.com",
           "beacon-api.aliyuncs.com"
         ]
-    },
-    {
-      "type": "logical",
-      "mode": "or",
-      "rules": [],
-      "invert": false
     }
   ]
 }
