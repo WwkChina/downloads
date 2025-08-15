@@ -72,6 +72,7 @@
         "ccgslb.net",
         "cctv.com",
         "cctvpic.com",
+        "cdn-cn.lingxigames.com",
         "chdbits.co",
         "chinanetcenter.com",
         "chinaso.com",
@@ -129,6 +130,7 @@
         "frdic.com",
         "futu5.com",
         "futunn.com",
+        "galaxias-api.lingxigames.com",
         "gandi.net",
         "gazellegames.net",
         "geilicdn.com",
@@ -186,8 +188,6 @@
         "kuyunbo.club",
         "lanzoue.com",
         "libguides.com",
-        "lingxigames.com",
-        "www.lingxigames.com",
         "livechina.com",
         "lofter.com",
         "loli.net",
@@ -307,6 +307,7 @@
         "test-ipv6.com",
         "tianyancha.com",
         "tjupt.org",
+        "tlkqc.com",
         "tmall.com",
         "tmall.hk",
         "totheglory.im",
@@ -337,6 +338,7 @@
         "wiley.com",
         "worldbank.org",
         "worldscientific.com",
+        "www.lingxigames.com",
         "xhscdn.com",
         "xiachufang.com",
         "xiami.com",
@@ -362,16 +364,13 @@
         "zmz2019.com",
         "zmzapi.com",
         "zmzapi.net",
-        "zmzfile.com",
-        "galaxias-api.lingxigames.com",
-        "cdn-cn.lingxigames.com",
-        "tlkqc.com"
+        "zmzfile.com"
       ],
       "domain_suffix": [
-        "w.alikunlun.com",
-        "tanx.com",
+        "ejoy.com",
         "lingxigames.com",
-        "ejoy.com"
+        "tanx.com",
+        "w.alikunlun.com"
       ]
     }
   ]
