@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "126.net",
         "127.net",
         "163.com",
@@ -117,6 +117,7 @@
         "eastmoney.com",
         "ebscohost.com",
         "edu.cn",
+        "ejoy.com",
         "emerald.com",
         "empornium.me",
         "engineeringvillage.com",
@@ -188,6 +189,7 @@
         "kuyunbo.club",
         "lanzoue.com",
         "libguides.com",
+        "lingxigames.com",
         "livechina.com",
         "lofter.com",
         "loli.net",
@@ -300,6 +302,7 @@
         "staticdn.net",
         "takungpao.com",
         "tandfonline.com",
+        "tanx.com",
         "taobao.com",
         "tencent-cloud.net",
         "tencent.com",
@@ -324,6 +327,7 @@
         "v-56.com",
         "visualstudio.com",
         "vmware.com",
+        "w.alikunlun.com",
         "wangsu.com",
         "weather.com",
         "webofknowledge.com",
@@ -364,13 +368,7 @@
         "zmz2019.com",
         "zmzapi.com",
         "zmzapi.net",
-        "zmzfile.com"
-      ],
-      "domain_suffix": [
-        "ejoy.com",
-        "lingxigames.com",
-        "tanx.com",
-        "w.alikunlun.com",
+        "zmzfile.com",
         "zy234.com"
       ]
     }
