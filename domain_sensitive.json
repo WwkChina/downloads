@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.paypal.com",
+        "challenges.cloudflare.com",
+        "checkout.paypal.com",
+        "payments.google.com",
+        "paypal.com",
+        "voice.google.com",
+        "www.recaptcha.net"
+      ]
+    }
+  ]
+}
