@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "academic.oup.com",
+        "acm.org",
+        "aip.org",
+        "aps.org",
+        "arxiv.org",
+        "biorxiv.org",
+        "bmj.com",
+        "cambridge.org",
+        "crossref.org",
+        "dl.acm.org",
+        "doi.org",
+        "dx.doi.org",
+        "elsevier.com",
+        "googleapis.com",
+        "gstatic.com",
+        "ieee.org",
+        "ieeexplore.ieee.org",
+        "iop.org",
+        "iopscience.iop.org",
+        "journals.aps.org",
+        "link.springer.com",
+        "medrxiv.org",
+        "nature.com",
+        "ncbi.nlm.nih.gov",
+        "nejm.org",
+        "onlinelibrary.wiley.com",
+        "oup.com",
+        "pubmed.ncbi.nlm.nih.gov",
+        "pubs.aip.org",
+        "scholar.google.com",
+        "scholar.googleusercontent.com",
+        "science.org",
+        "sciencedirect.com",
+        "springer.com",
+        "tandfonline.com",
+        "thelancet.com",
+        "wiley.com"
+      ]
+    }
+  ]
+}
