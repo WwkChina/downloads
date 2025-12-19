@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "amazonvideo.com",
+        "bamgrid.com",
+        "cdninstagram.com",
+        "disneyplus.com",
+        "googlevideo.com",
+        "hbo.com",
+        "hbomax.com",
+        "instagram.com",
+        "max.com",
+        "netflix.com",
+        "nflximg.net",
+        "nflxvideo.net",
+        "primevideo.com",
+        "t.co",
+        "ttvnw.net",
+        "twimg.com",
+        "twitch.tv",
+        "twitter.com",
+        "x.com",
+        "youtu.be",
+        "youtube.com"
+      ]
+    }
+  ]
+}
