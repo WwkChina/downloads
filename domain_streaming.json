@@ -1,43 +1,43 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "amazonvideo.com",
-        "bamgrid.com",
-        "cdninstagram.com",
-        "chat.openai.com",
-        "chatgpt.com",
-        "dailymotion.com",
-        "disneyplus.com",
-        "dmcdn.net",
-        "googlevideo.com",
-        "hbo.com",
-        "hbomax.com",
-        "hulu.com",
-        "hulustream.com",
-        "instagram.com",
-        "jtvnw.net",
-        "max.com",
-        "netflix.com",
-        "nflximg.net",
-        "nflxvideo.net",
-        "openai.com",
-        "paramountplus.com",
-        "peacocktv.com",
-        "primevideo.com",
-        "t.co",
-        "tiktok.com",
-        "tiktokcdn.com",
-        "tiktokv.com",
-        "ttvnw.net",
-        "twimg.com",
-        "twitch.tv",
-        "twitter.com",
-        "x.com",
-        "youtu.be",
-        "youtube.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "amazonvideo.com",
+                "bamgrid.com",
+                "cdninstagram.com",
+                "chat.openai.com",
+                "chatgpt.com",
+                "dailymotion.com",
+                "disneyplus.com",
+                "dmcdn.net",
+                "googlevideo.com",
+                "hbo.com",
+                "hbomax.com",
+                "hulu.com",
+                "hulustream.com",
+                "instagram.com",
+                "jtvnw.net",
+                "max.com",
+                "netflix.com",
+                "nflximg.net",
+                "nflxvideo.net",
+                "openai.com",
+                "paramountplus.com",
+                "peacocktv.com",
+                "primevideo.com",
+                "t.co",
+                "tiktok.com",
+                "tiktokcdn.com",
+                "tiktokv.com",
+                "ttvnw.net",
+                "twimg.com",
+                "twitch.tv",
+                "twitter.com",
+                "x.com",
+                "youtu.be",
+                "youtube.com"
+            ]
+        }
+    ]
 }
